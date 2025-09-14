@@ -1,0 +1,14 @@
+{
+  "name": "forex-broker-arbitrage",
+  "version": "1.0.0",
+  "description": "Forex broker platform with MT5 and arbitrage features",
+  "main": "src/backend/index.js",
+  "scripts": {
+    "start": "node src/backend/index.js",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "UNLICENSED"
+}
